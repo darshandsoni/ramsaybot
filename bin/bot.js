@@ -1,5 +1,3 @@
-# bin/bot.js
-
 'use strict';
 
 var RamsayBot = require('../lib/ramsaybot');
